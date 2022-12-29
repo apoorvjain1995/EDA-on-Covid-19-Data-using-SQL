@@ -10,8 +10,10 @@
 * The highest overall death count for a country was for United States being 5,75,232.
 * If we break things by continents the highest death count was for North America.
 * The total cases for the whole world were 15,05,74,977 while the total death count was 31,80,206 and the overall death percentage was at 2.11%.
-* **Joining** the Vaccination and Death tables we found out that the highest single day vaccination count was in Thailand being 99,985. We also used the **window** function to record a running people vaccinated count.
-
+* **Joining** the Vaccination and Death tables we found out that the highest single day vaccination count was in Thailand being 99,985. We also used the **window** function to record a **running people vaccinated count**.
+* To perform operation on the running people vaccinated count which were obtained in the above query we used a **CTE**.
+* We also created a temporary table to store the data obtained in the above query which can be used to perform operation on rolling people vaccinated column 
+* Also created a view of the data extracted in the previous query, so that it can be used for visualization.  
 
 
 
