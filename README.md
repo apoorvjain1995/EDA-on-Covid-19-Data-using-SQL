@@ -3,6 +3,7 @@
 * In this project I performed an EDA for the COVID 19 Data for deaths and vaccination. 
 * Used Microsoft SQL Server for EDA
 * The data is taken from January 2020 - April 2021.
+
 [Project Files](https://github.com/apoorvjain1995/EDA-on-Covid-19-Data-using-SQL)
 
 ## Findings
