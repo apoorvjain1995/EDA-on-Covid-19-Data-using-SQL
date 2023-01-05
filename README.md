@@ -1,7 +1,7 @@
 # Covid-19 Data Exploration using SQL
 ## Project Overview
 * In this project I performed an **EDA** for the COVID 19 Data for deaths and vaccination on a total of 170+ lakh records.
-* **Joined** the Deaths and Vacination table for deeper insights.
+* **Joined** the Deaths and Vaccination table for deeper insights.
 * Used **window** functions to perform advanced calculations.
 * Used **CTEs** to perform operations on data extracted from window fuctions.
 * Used Microsoft SQL Server for EDA
